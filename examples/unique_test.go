@@ -3,7 +3,7 @@ package examples
 import (
 	"fmt"
 
-	"github.com/idoubi/goutils"
+	"github.com/o289697/goutils"
 )
 
 func ExampleGenUuid() {
