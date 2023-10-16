@@ -3,7 +3,7 @@ package request
 import (
 	"strings"
 
-	"github.com/idoubi/goz"
+	"github.com/o289697/goz"
 )
 
 // Client: request client
