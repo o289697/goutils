@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/idoubi/goutils"
+	"github.com/o289697/goutils"
 )
 
 func ExampleTimestamp() {
