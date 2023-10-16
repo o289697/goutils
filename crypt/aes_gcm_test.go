@@ -3,7 +3,7 @@ package crypt
 import (
 	"testing"
 
-	"github.com/idoubi/goutils"
+	"github.com/o289697/goutils"
 )
 
 func TestAesGcmEncrypt(t *testing.T) {
